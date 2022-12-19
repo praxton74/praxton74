@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science, Python, OpenCV**
 
-- 📫 How to reach me **parthmishra28082002@gmail.com**
+- 📫 How to reach me [Email]**parthmishra28082002@gmail.com**
 
 - 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1RxTCgc1C1tckYiKrvUomXeuEBAXwlsQo/view?usp=sharing)
 
