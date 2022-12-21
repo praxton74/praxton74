@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
 
-- 💬 Ask me about **Data Science, Python, OpenCV**
+- 💬 Ask me about **Data Science, Python, OpenCV, Machine Learning**
 
 - 📫 How to reach me **parthmishra28082002@gmail.com**
 
