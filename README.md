@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praxton74&show_icons=true&locale=en" alt="praxton74" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praxton74&" alt="praxton74" /></p>
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.1.0
