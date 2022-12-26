@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A Data Science and Machine Learning enthusiast with keen Interest in Computer Vision Models</h3>
-<p></p>
 
 - 🔭 I’m currently working on **BioTron**
 
@@ -8,7 +7,7 @@
 
 - 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
 
-- 💬 Ask me about **Data Science, Python, OpenCV, Machine Learning **
+- 💬 Ask me about **Data Science, Python, OpenCV, Machine Learning**
 
 - 📫 How to reach me **parthmishra28082002@gmail.com**
 
