@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BioTron**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **.NET**
 
 - 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
 
