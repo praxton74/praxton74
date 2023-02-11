@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1AdJTJK0L7-hnUZ92bp9EYu8bfhXSZc9U/view?usp=share_link)
 
-- ⚡ Fun fact    **Golang is Beautiful :)**
+- ⚡ Fun fact    **I want to start a Bookstagram but I'm too lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
