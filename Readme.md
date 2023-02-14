@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, Python, OpenCV, Machine Learning**
 
-- 📫 How to reach me **parthmishra28082002@gmail.com**                                   ![mainlailahoon-bollywood](https://user-images.githubusercontent.com/94388365/218789764-ec54d7f7-8e44-4572-9772-f3b960f2ca09.gif)
+- 📫 How to reach me **parthmishra28082002@gmail.com**                                                          ![mainlailahoon-bollywood](https://user-images.githubusercontent.com/94388365/218789764-ec54d7f7-8e44-4572-9772-f3b960f2ca09.gif)
 
 - 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1AdJTJK0L7-hnUZ92bp9EYu8bfhXSZc9U/view?usp=share_link)
 
