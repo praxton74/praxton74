@@ -14,7 +14,10 @@
 - 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1AdJTJK0L7-hnUZ92bp9EYu8bfhXSZc9U/view?usp=share_link)
 
 - ⚡ Fun fact    ***Karma is my Boyfriend !!***
-![methyl52-kajol](https://user-images.githubusercontent.com/94388365/218791496-04209ef1-7fab-4cd1-8988-49cc2383bd68.gif)
+
+
+
+![kajol_expressions_06](https://user-images.githubusercontent.com/94388365/218791949-a5674581-7558-4ee3-8a64-cec5d138abd3.gif)
 
 
 
