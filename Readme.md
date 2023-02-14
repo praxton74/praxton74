@@ -17,7 +17,6 @@
 
 ![kajol-kajolispyaar](https://user-images.githubusercontent.com/94388365/218792309-567e0e35-e590-4724-976f-d06ee10a906b.gif)
 
-![bollywood-actress](https://user-images.githubusercontent.com/94388365/218794583-bb1014cb-4a03-4822-9061-d076bcc1f6a0.gif)
 
 
 
