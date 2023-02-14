@@ -16,7 +16,7 @@
 - ⚡ Fun fact    ***I want to start a Bookstagram but I'm too lazy 🙂***
 
 
-<div class="tenor-gif-embed" data-postid="20476328" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kajol-fanaaforkajol-pyaar-to-hona-hi-tha-excited-excited-girl-gif-20476328">Kajol Fanaaforkajol GIF</a>from <a href="https://tenor.com/search/kajol-gifs">Kajol GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/view/kajol-fanaaforkajol-pyaar-to-hona-hi-tha-excited-excited-girl-gif-20476328
 
 
 <h3 align="left">Connect with me:</h3>
