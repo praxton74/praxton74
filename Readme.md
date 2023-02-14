@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact    ***Karma is my Boyfriend !!***
 
-![kajol-kajolispyaar](https://user-images.githubusercontent.com/94388365/218792309-567e0e35-e590-4724-976f-d06ee10a906b.gif)
 ![AngryWiltedKookaburra-size_restricted (1)](https://user-images.githubusercontent.com/94388365/218797600-847ef8d2-4000-4439-91d3-a1570cfe8b96.gif)
 
 
