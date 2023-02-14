@@ -13,9 +13,10 @@
 
 - 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1AdJTJK0L7-hnUZ92bp9EYu8bfhXSZc9U/view?usp=share_link)
 
-- ⚡ Fun fact    ***I want to start a Bookstagram but I'm too lazy 🙂***
+- ⚡ Fun fact    ***Karma is my Boyfriend !!***
+![methyl52-kajol](https://user-images.githubusercontent.com/94388365/218791496-04209ef1-7fab-4cd1-8988-49cc2383bd68.gif)
 
-                                     ![mainlailahoon-bollywood](https://user-images.githubusercontent.com/94388365/218789764-ec54d7f7-8e44-4572-9772-f3b960f2ca09.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
