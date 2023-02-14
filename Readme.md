@@ -15,9 +15,8 @@
 
 - ⚡ Fun fact    ***Karma is my Boyfriend !!***
 
+![kajol-kajolispyaar](https://user-images.githubusercontent.com/94388365/218792309-567e0e35-e590-4724-976f-d06ee10a906b.gif)
 
-
-![kajol_expressions_06](https://user-images.githubusercontent.com/94388365/218791949-a5674581-7558-4ee3-8a64-cec5d138abd3.gif)
 
 
 
