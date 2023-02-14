@@ -18,12 +18,6 @@
 ![kajol-kajolispyaar](https://user-images.githubusercontent.com/94388365/218792309-567e0e35-e590-4724-976f-d06ee10a906b.gif)
 
 
-![methyl52-kajol (1)](https://user-images.githubusercontent.com/94388365/218793408-3550ef36-19f1-4820-a4a1-1483f86a57c5.gif)
-
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/parth-mishra-44343b221/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZglp9R1Oz-1YH9nbRQdMQeuyhzIj8_A00w&usqp=CAU" alt="parth mishra" height="30" width="40" /></a>
