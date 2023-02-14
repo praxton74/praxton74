@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A Data Science and Machine Learning enthusiast with keen Interest in Computer Vision Models</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/praxton74}/count.svg)
 
 - 🔭 I’m currently working on **ROSAT**
 
