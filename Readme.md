@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://www.linkedin.com/in/parth-mishra-44343b221/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZglp9R1Oz-1YH9nbRQdMQeuyhzIj8_A00w&usqp=CAU" alt="parth mishra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parth-mishra-44343b221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth mishra" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/praxton74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="praxton74" height="30" width="40" /></a>
 <a href="https://kaggle.com/shiningatsun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shiningatsun" height="30" width="40" /></a>
 <a href="https://instagram.com/parth__20_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth__20_" height="30" width="40" /></a>
