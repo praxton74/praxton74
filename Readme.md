@@ -16,6 +16,7 @@
 
 - ⚡ Fun fact    ***golang is beautiful !!***
 
+![russian-boy-dancing](https://user-images.githubusercontent.com/94388365/219855445-88917bbd-7348-48c5-b635-7ca8a0c09a96.gif)
 
 
 
