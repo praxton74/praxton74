@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1AdJTJK0L7-hnUZ92bp9EYu8bfhXSZc9U/view?usp=share_link)
 
-- ⚡ Fun fact    ***golang is fun!!***
+- ⚡ Fun fact    ***golang is beautiful!!***
 
 ![russian-boy-dancing](https://user-images.githubusercontent.com/94388365/219855445-88917bbd-7348-48c5-b635-7ca8a0c09a96.gif)
 
