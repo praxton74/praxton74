@@ -25,7 +25,7 @@
 <a href="https://kaggle.com/shiningatsun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shiningatsun" height="30" width="40" /></a>
 <a href="https://instagram.com/parth__20_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth__20_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parthmishra28082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthmishra28082002" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/parth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parth" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/parthmishra28082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parth" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praxton74" alt="praxton74" /></a> </p>
