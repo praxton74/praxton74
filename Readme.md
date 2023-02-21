@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Parth</h1>
+<h1 align="center" color="red">Hi 👋, I'm Parth</h1>
 <h3 align="center">A Data Science and Machine Learning enthusiast with keen Interest in Computer Vision Models</h3>
-<p bgcolor="red">
 
 - 🔭 I’m currently working on **ROSAT**
              <img align="right" src="https://user-images.githubusercontent.com/94388365/220471177-b4af3217-ad1f-4f20-9cd6-9bf6aea7059e.gif">
@@ -38,4 +37,3 @@
 <p>&nbsp;<img align="center" bgcolor="red" src="https://github-readme-stats.vercel.app/api?username=praxton74&locale=en" alt="praxton74"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praxton74&" alt="praxton74"/></p>
-</p>
