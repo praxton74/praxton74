@@ -34,6 +34,10 @@
 
 
 
-<p>&nbsp;<img align="center" bgcolor="red" src="https://github-readme-stats.vercel.app/api?username=praxton74&locale=en" alt="praxton74"/></p>
+/**<p>&nbsp;<img align="center" bgcolor="red" src="https://github-readme-stats.vercel.app/api?username=praxton74&locale=en" alt="praxton74"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praxton74&" alt="praxton74"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praxton74&" alt="praxton74"/></p>**/
+
+
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=praxton74&show_icons=true&theme=tokyonight" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=praxton74&theme=tokyonight" />
