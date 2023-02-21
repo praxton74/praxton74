@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **.NET**
 
 - 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
-<img align="right" src="methyl52-kajol.gif" >
+<img align="right" src="https://user-images.githubusercontent.com/94388365/220471177-b4af3217-ad1f-4f20-9cd6-9bf6aea7059e.gif">
 
 - 💬 Ask me about **Data Science, Python, OpenCV, Machine Learning**
 
