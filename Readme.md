@@ -15,10 +15,10 @@
 - 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1AdJTJK0L7-hnUZ92bp9EYu8bfhXSZc9U/view?usp=share_link)
 
 - ⚡ Fun fact    ***Golang is beautiful !!***
-- 
-- 
-- 
--                                                ![P8yiICx](https://user-images.githubusercontent.com/94388365/220465637-500c6ba1-ab53-4814-a638-9b1ffad8d965.gif)
+                                             
+                                             
+                                             
+     ![P8yiICx](https://user-images.githubusercontent.com/94388365/220465637-500c6ba1-ab53-4814-a638-9b1ffad8d965.gif)
 
 
 
