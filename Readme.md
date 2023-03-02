@@ -2,7 +2,7 @@
 <h3 align="center"><i>A Data Science and Machine Learning enthusiast with keen Interest in Computer Vision Models</i></h3>
 
 - 🔭 I’m currently working on **ROSAT**
-               <img align="right" width="450" height="300" src="https://media.tenor.com/L-6NwtTT6dsAAAAC/noel-gallagher-oasis.gif">
+               <img align="right" width="450" height="300" src="https://media.tenor.com/45mzksBJ2xYAAAAd/badass.gif">
 - 🌱 I’m currently learning **.NET**
 
 - 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
