@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1dVJDPDQXZElLkL5c4MFIkzI8xFeUzHLt/view?usp=share_link)
 
-- ⚡ Fun fact    ***Golang is beautiful !!***
+- ⚡ Fun fact    ***Golang is actually GO !!***
                                              
 
 
