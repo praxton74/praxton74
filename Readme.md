@@ -2,7 +2,7 @@
 <h3 align="center"><i>A Data Science and Machine Learning enthusiast with keen Interest in Computer Vision Models</i></h3>
 
 - 🔭 I’m currently working on **ROSAT**
-![ttnfq](https://github.com/praxton74/praxton74/assets/94388365/0e94a8ab-66c7-4def-9664-d41cc83c70a2)
+                                                            ![ttnfq](https://github.com/praxton74/praxton74/assets/94388365/0e94a8ab-66c7-4def-9664-d41cc83c70a2)
 
 - 🌱 I’m currently learning **Spring Boot**                                                                       
 
