@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **ROSAT**
 
-- 🌱 I’m currently learning **Spring Boot**                                                                                                    ![spring](https://github.com/praxton74/praxton74/assets/94388365/bf82378a-207c-4edf-8993-cf56fd3eac7b)
-     
+- 🌱 I’m currently learning **Spring Boot**                   ![image](https://github.com/praxton74/praxton74/assets/94388365/101b238d-5763-47f7-8fd2-8ba4f7186493)
+                             
 
 - 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
 
