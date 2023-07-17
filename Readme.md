@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **parthmishra28082002@gmail.com**
 
-- 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/11VXrv_cBX822g_2qkau47y-xrPyqap8K/view?usp=sharing)
+- 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1DPrq-Sthi0S2X40BjTEBrrlnNJYIw0KC/view?usp=sharing)
 
 - ⚡ Fun fact    ***Golang is actually GO !!***
                                              
