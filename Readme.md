@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on **ROSAT**
 
 - 🌱 I’m currently learning **Spring Boot**
-  
-  <img src="![image_processing20200604-14649-1dzpdk2](https://github.com/praxton74/praxton74/assets/94388365/a2709c65-4b5e-48b8-a22e-a4264285c1c3) " style="width:4px;height:8px; </img>
 
 - 🤝 I’m looking for help with [A-R-I-M-A](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
 
@@ -17,6 +15,7 @@
 
 - ⚡ Fun fact    ***Golang is actually GO !!***
                                              
+![image_processing20200604-14649-1dzpdk2](https://github.com/praxton74/praxton74/assets/94388365/bc5b2989-e586-4548-a676-23eacb7468f6)
 
 
 <h3 align="left">Connect with me:</h3> 
