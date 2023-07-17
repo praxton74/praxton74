@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact    ***Golang is actually GO !!***
                                              
-![image_processing20200604-14649-1dzpdk2](https://github.com/praxton74/praxton74/assets/94388365/bc5b2989-e586-4548-a676-23eacb7468f6)
-
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
