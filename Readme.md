@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **ROSAT**
 
 - 🌱 I’m currently learning **Spring Boot**
-  <img src="https://cdn.dribbble.com/users/2084726/screenshots/11897843/media/f8a268a9e9a4cc3ab7b0c104a0301210.gif" style="width:4px;height:8px; </img>
+  <img src="https://dribbble.com/shots/11897843-Spring-io-logo-animation/attachments/3523652?mode=media" style="width:4px;height:8px; </img>
 
 - 🤝 I’m looking for help with [A-R-I-M-A](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
 
