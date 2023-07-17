@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **ROSAT**
 
 - 🌱 I’m currently learning **Spring Boot**
-                                                     <div>   <img src="![image](https://github.com/praxton74/praxton74/assets/94388365/101b238d-5763-47f7-8fd2-8ba4f7186493" </div>
 
 - 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
 
