@@ -2,9 +2,10 @@
 <h3 align="center"><i>A Data Science and Machine Learning enthusiast with keen Interest in Computer Vision Models</i></h3>
 
 - 🔭 I’m currently working on **ROSAT**
+                                   ![springio-ar21](https://github.com/praxton74/praxton74/assets/94388365/8d701819-a9ee-4724-9461-9e2b5052b092)
 
-- 🌱 I’m currently learning **Spring Boot**                                                                       
-
+- 🌱 I’m currently learning **Spring Boot**                                                                                                                                                      
+ 
 - 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
 
 - 💬 Ask me about **Data Science, Python, OpenCV**
