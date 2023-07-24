@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 🤝 I’m looking for help with [A-R-I-M-A](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
+- 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
 
 - 💬 Ask me about **Data Science, Python, OpenCV**
 
