@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ROSAT**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **PyTorch**
 
 - 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
 
