@@ -9,10 +9,6 @@
 
 - 💬 Ask me about **Data Science, Python, OpenCV**
 
-- 📫 How to reach me **parthmishra28082002@gmail.com**
-
-- 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1DPrq-Sthi0S2X40BjTEBrrlnNJYIw0KC/view?usp=sharing)
-
 - ⚡ Fun fact   ***Its pronounced as Go and not Golang!!***
                                              
 
