@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, Python, OpenCV**
 
-- ⚡ Fun fact   ***Its pronounced as Go and not Golang!!***
+- ⚡ Fun fact   **Go is actually fun!!**
                                              
 
 <h3 align="left">Connect with me:</h3> 
