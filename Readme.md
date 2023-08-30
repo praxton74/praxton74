@@ -11,6 +11,8 @@
 
 - 📫 How to reach me <a href="mailto:parthmishra28082002@gmail.com">parthmishra28082002@gmail.com</a>
 
+- 📝 <a href="https://drive.google.com/file/d/1d6WCJW3Ri9UcftOOH4SvrN9tAMZjHhBU/view?usp=sharing" target="_blank" rel="noopener">Resume</a> 
+
 - ⚡ Fun fact   **Go is actually fun!!**
                                              
 
