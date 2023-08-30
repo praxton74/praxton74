@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Data Science, Python, OpenCV**
 
+- 📫 How to reach me [Email](parthmishra28082002@gmail.com)
+
 - ⚡ Fun fact   **Go is actually fun!!**
                                              
 
