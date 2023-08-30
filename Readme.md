@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, Python, OpenCV**
 
-- 📫 How to reach me [Email](parthmishra28082002@gmail.com)
+- 📫 How to reach me [Email]<a href="mailto:parthmishra28082002@gmail.com">sauravchamoli17@gmail.com</a>
 
 - ⚡ Fun fact   **Go is actually fun!!**
                                              
