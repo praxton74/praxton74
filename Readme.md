@@ -26,6 +26,9 @@
 <a href="https://auth.geeksforgeeks.org/user/parthmishra28082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parth" height="30" width="40" /></a>
 </p>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilgkrishnan&amp;layout=compact&amp;hide=html" alt="akhilgkrishnan">
+
+
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praxton74" alt="praxton74"/></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
