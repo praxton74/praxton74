@@ -13,7 +13,7 @@
 
 - 📝 Know more about me here -> <a href="https://drive.google.com/file/d/1d6WCJW3Ri9UcftOOH4SvrN9tAMZjHhBU/view?usp=sharing" target="_blank" rel="noopener">Resume</a> 
 
-- ⚡ Fun fact   **golang is actually fun!!**
+- ⚡ Fun fact   **golang is fun!!**
                                              
 
 <h3 align="left">Connect with me:</h3> 
