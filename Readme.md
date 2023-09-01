@@ -30,7 +30,7 @@
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praxton74" alt="praxton74"/></a> </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=praxton74&amp;show_icons=true" alt="praxton74">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=praxton74&amp;show_icons=true" alt="praxton74"><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praxton74&amp;layout=compact&amp;hide=html" alt="praxton74">
 
 <h3 align="left">Languages and Tools:</h3>
