@@ -1,4 +1,4 @@
-<h1 align="center" color="red">Hi 👋, I'm Parth</h1>
+<h1 align="center" color="white">Hi 👋, I'm Parth</h1>
 <h3 align="center"><i>A Data Science and Machine Learning enthusiast with keen Interest in Computer Vision Models</i></h3>
 
 - 🔭 I’m currently working on **CryptoHacks**
