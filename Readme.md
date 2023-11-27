@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
 
-- 👨‍💻 All of my projects are available at [https://praxton74.github.io/Portfolio/](https://praxton74.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://praxton74.github.io/Portfolio/)
 
 - 💬 Ask me about **Data Science, Python, OpenCV, Machine Learning**
 
 - 📫 How to reach me **parthmishra28082002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RxTCgc1C1tckYiKrvUomXeuEBAXwlsQo/view?usp=sharing](https://drive.google.com/file/d/1RxTCgc1C1tckYiKrvUomXeuEBAXwlsQo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RxTCgc1C1tckYiKrvUomXeuEBAXwlsQo/view?usp=sharing)
 
 - ⚡ Fun fact **Golang is Beautiful :)**
 
