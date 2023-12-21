@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla/blob/main/Stock_Price_Prediction_TSLA.ipynb)
+- 🤝 I’m looking for help with [FILL-THE-GAP](https://github.com/praxton74/FILL-THE-GAP)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://praxton74.github.io/Portfolio/)
 
