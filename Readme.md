@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **parthmishra28082002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RxTCgc1C1tckYiKrvUomXeuEBAXwlsQo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19nVuJMHYTkHZDf1ClfRHwgU-XO8r6Tbq/view?usp=sharing)
 
 - ⚡ Fun fact **Golang is Beautiful :)**
 
