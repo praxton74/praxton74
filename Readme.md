@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">A Data Science and Machine Learning enthusiast with keen Interest in Computer Vision Models</h3>
-
  
 - 🔭 I’m currently working on **BioTron**
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **Golang**
 
 - 🤝 I’m looking for help with [FILL-THE-GAP](https://github.com/praxton74/FILL-THE-GAP)
 
@@ -13,7 +11,7 @@
 
 - 💬 Ask me about **Data Science, Python, OpenCV, Machine Learning**
 
-- 📫 How to reach me **parthmishra28082002@gmail.com**
+- 📫 How to reach me **pm74parth@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19nVuJMHYTkHZDf1ClfRHwgU-XO8r6Tbq/view?usp=sharing)
 
