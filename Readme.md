@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **pm74parth@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19nVuJMHYTkHZDf1ClfRHwgU-XO8r6Tbq/view?usp=sharing)
-
 - ⚡ Fun fact **Golang is Beautiful :)**
 
 <h3 align="left">Connect with me:</h3>
