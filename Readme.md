@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://praxton74.github.io/Portfolio/)
 
-- 💬 Ask me about **Data Science, Python, OpenCV, Machine Learning**
+- 💬 Ask me about **Django, Python, TensorFlow, SQL**
 
 - 📫 How to reach me **pm74parth@gmail.com**
 
