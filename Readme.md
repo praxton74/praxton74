@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 🤝 I’m looking for help with [FILL-THE-GAP](https://github.com/praxton74/FILL-THE-GAP)
+- 🤝 I’m looking for help with [ARIMA](https://github.com/praxton74/Stock-Tesla)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://praxton74.github.io/Portfolio/)
 
