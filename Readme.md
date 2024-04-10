@@ -18,12 +18,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/praxton74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praxton74" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parth mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth mishra" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/praxton74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="praxton74" height="30" width="40" /></a>
-<a href="https://kaggle.com/shiningatsun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shiningatsun" height="30" width="40" /></a>
-<a href="https://instagram.com/parthmmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth__20_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parth-mishra-44343b221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth mishra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20812809/praxton74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="praxton74" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/shiningatsun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shiningatsun" height="30" width="40" /></a>
+<a href="https://instagram.com/parth__20_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth__20_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parthmishra28082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthmishra28082002" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/parth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parth" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/parthmishra28082002/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left" color="red">Languages and Tools:</h3>
