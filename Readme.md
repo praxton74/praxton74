@@ -1,12 +1,10 @@
-# Parth Mishra
-
+# Hi!! Parth this side👋
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/parth-mishra-44343b221//)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://instagram.com/parth__20_/)](https://www.instagram.com/https://instagram.com/parth__20_)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pm74parth@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://praxton74.github.io/Portfolio/)](https://praxton74.github.io/Portfolio/)
-[![Github](https://img.shields.io/github/followers/Praxton74?label=Follow&style=social)](https://github.com/Praxton74)
 
 - 💻Software Engineer with Skilled in  𝑷𝒚𝒕𝒉𝒐𝒏, 𝑫𝒋𝒂𝒏𝒈𝒐, 𝑨𝑾𝑺, 𝑺𝒑𝒓𝒊𝒏𝒈 𝑩𝒐𝒐𝒕, 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝑹𝒆𝒂𝒄𝒕, 𝑨𝒑𝒂𝒄𝒉𝒆 𝑲𝒂𝒇𝒌𝒂, 𝑶𝒑𝒆𝒏𝑪𝑽, 𝑻𝒆𝒏𝒔𝒐𝒓𝑭𝒍𝒐𝒘, 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆, 𝑭𝒊𝒓𝒆𝒃𝒂𝒔𝒆, 𝑪++, 𝑱𝒂𝒗𝒂, 𝑴𝒐𝒏𝒈𝒐𝑫𝑩, 𝑺𝑸𝑳, and more. 
 
