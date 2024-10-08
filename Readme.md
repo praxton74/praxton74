@@ -1,4 +1,4 @@
-                                                   # Hi!! Parth this side👋
+  # Hi!! Parth this side👋
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/parth-mishra-44343b221//)
