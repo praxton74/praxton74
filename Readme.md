@@ -10,7 +10,7 @@
 
 - 🤔I’m currently learning *Golang*
 
-- 🌱 As the Machine Learning Head at ![DSDL](https://github.com/Data-Science-and-Deep-Learning-Club), I've led teams, organized educational initiatives and mentored 45 students. 
+- 🌱 As the Machine Learning Head at ![(DSDL)](https://github.com/Data-Science-and-Deep-Learning-Club), I've led teams, organized educational initiatives and mentored 45 students. 
 
 - ⚡  During my internship at The Indegenous, I employed **𝑵𝑳𝑷, Deep Learning, Web Scraping, MongoDB, 𝑩𝒆𝒂𝒖𝒕𝒊𝒇𝒖𝒍 𝑺𝒐𝒖𝒑, 𝑺𝒆𝒍𝒆𝒏𝒊𝒖𝒎, and Machine Learning,** fostering a holistic approach to media sentiment analysis.
 <br>
