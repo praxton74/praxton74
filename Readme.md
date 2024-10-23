@@ -8,7 +8,7 @@
 
 - 💻Software Engineer Skilled in  𝑷𝒚𝒕𝒉𝒐𝒏, 𝑫𝒋𝒂𝒏𝒈𝒐, 𝑨𝑾𝑺, 𝑺𝒑𝒓𝒊𝒏𝒈 𝑩𝒐𝒐𝒕, 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝑹𝒆𝒂𝒄𝒕, 𝑨𝒑𝒂𝒄𝒉𝒆 𝑲𝒂𝒇𝒌𝒂, 𝑶𝒑𝒆𝒏𝑪𝑽, 𝑻𝒆𝒏𝒔𝒐𝒓𝑭𝒍𝒐𝒘, 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑭𝒊𝒓𝒆𝒃𝒂𝒔𝒆, 𝑱𝒂𝒗𝒂, 𝑴𝒐𝒏𝒈𝒐𝑫𝑩, 𝑺𝑸𝑳 
 
-- 🤔I’m currently learning *Golang*
+- 🤔I’m currently learning *PySpark*
 
 - 🌱 As the Machine Learning Head at [DSDL](https://github.com/Data-Science-and-Deep-Learning-Club), I've led teams, organized educational initiatives and mentored 45 students. 
 
