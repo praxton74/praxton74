@@ -8,7 +8,7 @@
 
 - 🎆 I’m currently Building Projects in NestJS
  
-- 🤔 I’m currently learning *PySpark and Dta Bricks*
+- 🤔 I’m currently learning *PySpark and Data Bricks*
 
 - 🌱 As the Machine Learning Head at [DSDL](https://github.com/Data-Science-and-Deep-Learning-Club), I've led teams, organized educational initiatives and mentored 45 students. 
 
