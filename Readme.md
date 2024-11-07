@@ -14,7 +14,6 @@
 
 - ⚡  During my internship at The Indegenous, I built an efficient Full -Stack Web Application for media sentiment analysis.
 
-<h1>I dont Clone Codes 😉 like those other douchebags you see on the Internet</h1>
 
 <br>
 
