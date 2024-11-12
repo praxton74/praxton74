@@ -142,5 +142,5 @@
  ![images (3)](https://github.com/user-attachments/assets/59b398b8-1e12-4ded-9a8e-0c893489a3d6)
 
 
-   <img align="left" width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Praxton74&" alt="Praxton74" />
+   <img align="right" width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Praxton74&" alt="Praxton74" />
 
