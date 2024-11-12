@@ -137,8 +137,10 @@
 
 
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=praxton74&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="150"  alt="stats graph"  />
+<img  align="right" src="">
  
+ ![images (3)](https://github.com/user-attachments/assets/59b398b8-1e12-4ded-9a8e-0c893489a3d6)
+
 
    <img align="left" width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Praxton74&" alt="Praxton74" />
 
