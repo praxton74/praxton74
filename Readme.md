@@ -134,9 +134,6 @@
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/praxton74/praxton74/output/snake.svg" alt="Snake animation" />
 
 ###
 
