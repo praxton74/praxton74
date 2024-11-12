@@ -142,5 +142,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=praxton74&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" width="50%" alt="stats graph"  />
  
 
-   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Praxton74&" alt="Praxton74" />
+   <img align="left" width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Praxton74&" alt="Praxton74" />
 
