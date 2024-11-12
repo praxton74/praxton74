@@ -136,7 +136,7 @@
 
 
 
- <img align= "right" height="50%" width="30%" src="https://github.com/user-attachments/assets/eff315f5-613a-415d-a939-1585d7ae79aa">
+ <img align= "right" height="50%" width="40%" src="https://github.com/user-attachments/assets/eff315f5-613a-415d-a939-1585d7ae79aa">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praxton74&" alt="Praxton74" />
 
