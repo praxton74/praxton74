@@ -33,8 +33,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
@@ -75,17 +74,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
   <img width="12" />
@@ -103,16 +98,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img width="12" />
+  <img width=
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
@@ -120,8 +111,6 @@
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
