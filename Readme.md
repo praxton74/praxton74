@@ -1,4 +1,5 @@
-<p left align=500%>                                         <h1> ʙᴜɪʟᴅɪɴɢ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ ᴀɴᴅ ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜᴇᴍ    <img align= "right" height="55%" width="36%" src="![image](https://github.com/user-attachments/assets/743932f9-4fe1-4a93-9048-72d429bc3a74)
+<p left align=500%>                                         <h1> ʙᴜɪʟᴅɪɴɢ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ ᴀɴᴅ ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜᴇᴍ 
+   <img  src="https://github.com/user-attachments/assets/c5ea898c-44dd-436b-856b-3832f29ff26b")
 "> </h1>  </p>
 
 
