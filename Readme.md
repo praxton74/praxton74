@@ -105,7 +105,7 @@
 
 
 
- <img align= "right" height="55%" width="36%" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdYyMna833-Ad5NNgF7Os-j8qwt8cApKqRavEoOxEJbfbVsOqu">
+ <img align= "right" height="55%" width="36%" src="https://www.mkanalysis.com/static/img/Data%20Science%20Tom%20and%20Jerry.jpg">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praxton74&" alt="Praxton74" />
 
