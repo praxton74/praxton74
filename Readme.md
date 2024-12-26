@@ -1,4 +1,4 @@
-<p left align=500%>                                         <h1> "𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑴𝒐𝒅𝒆𝒍𝒔 𝒂𝒏𝒅 𝑫𝒆𝒑𝒍𝒐𝒚𝒊𝒏𝒈 𝑻𝒉𝒆𝒎" </h1>  </p>
+<p left align=500%>                                         <h1> ʙᴜɪʟᴅɪɴɢ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ ᴀɴᴅ ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜᴇᴍ </h1>  </p>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&width=500px)](https://www.linkedin.com/in/parth-mishra-44343b221//)
