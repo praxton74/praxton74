@@ -1,5 +1,5 @@
 <p left align=500%>                                         <h1> ʙᴜɪʟᴅɪɴɢ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ ᴀɴᴅ ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜᴇᴍ 
-   <img  width ="50px" src="https://github.com/user-attachments/assets/684f33f3-d1c2-424f-8d68-18f5b9b53dbd"> </h1>  </p>
+   <img  width ="50px" src="!https://github.com/user-attachments/assets/a3e433dd-5846-421a-bc0d-2c97f37f18b3"> </h1>  </p>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&width=500px)](https://www.linkedin.com/in/parth-mishra-44343b221//)
