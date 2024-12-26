@@ -16,7 +16,6 @@
 
 - 📙  My [Resume](https://drive.google.com/file/d/1AWjVjbi4ZCXS2vltsqsSCh4nOUO2mGub/view?usp=sharing)
 
-<i class="fa fa-file-pdf-o" style="font-size:48px;color:red"></i>
 
 
 <h2 align="left">I code with</h2>
@@ -106,7 +105,7 @@
 
 
 
- <img align= "right" height="55%" width="36%" src="https://github.com/user-attachments/assets/eff315f5-613a-415d-a939-1585d7ae79aa">
+ <img align= "right" height="55%" width="36%" src="https://storage.googleapis.com/kaggle-forum-message-attachments/703594/14673/DATAAC.jpeg">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praxton74&" alt="Praxton74" />
 
