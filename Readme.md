@@ -1,4 +1,5 @@
-<p left align=500%>                                         <h1> ʙᴜɪʟᴅɪɴɢ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ ᴀɴᴅ ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜᴇᴍ </h1>  </p>
+<p left align=500%>                                         <h1> ʙᴜɪʟᴅɪɴɢ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ ᴀɴᴅ ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜᴇᴍ(![image](https://github.com/user-attachments/assets/9bd09182-3a0c-4465-85dc-fd7286828af3)
+) </h1>  </p>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&width=500px)](https://www.linkedin.com/in/parth-mishra-44343b221//)
