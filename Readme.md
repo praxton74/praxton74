@@ -1,5 +1,5 @@
 <p left align=500%>                                         <h1> ʙᴜɪʟᴅɪɴɢ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ ᴀɴᴅ ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜᴇᴍ 
-   <img  src="https://github.com/user-attachments/assets/c5ea898c-44dd-436b-856b-3832f29ff26b")
+   <img  width ="50px" src="https://github.com/user-attachments/assets/c5ea898c-44dd-436b-856b-3832f29ff26b")
 "> </h1>  </p>
 
 
