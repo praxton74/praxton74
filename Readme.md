@@ -2,11 +2,6 @@
    <img  width ="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgV6iddHeFGuPg8DRE_-IJwHPhMaACAxnFMV7XM_MDGHy5QutnbNJxoKgIvsx9-R4xc7E&usqp=CAU"> </h1>  </p>
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&width=500px)](https://www.linkedin.com/in/parth-mishra-44343b221//)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://instagram.com/parth__20_/)](https://www.instagram.com/parth__20_)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pm74parth@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://praxton74.github.io/Portfolio/)](https://praxton74.github.io/Portfolio/)
-
 - 🎆 I’m currently Building Projects in NestJS
  
 - 🤔 I’m currently learning *PySpark and DataBricks*
