@@ -2,9 +2,9 @@
    <img  width ="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgV6iddHeFGuPg8DRE_-IJwHPhMaACAxnFMV7XM_MDGHy5QutnbNJxoKgIvsx9-R4xc7E&usqp=CAU"> </h1>  </p>
  
 
-- 🎆 I’m currently Building Projects in NestJS
+- 🎆 I’m currently Building Projects using Llama
  
-- 🤔 I’m currently learning *PySpark and DataBricks*
+- 🤔 I’m currently learning *Agentic RAG*
 
 - 🌱 As the Machine Learning Head at [DSDL](https://github.com/Data-Science-and-Deep-Learning-Club), I've led teams, organized educational initiatives and mentored 45 students. 
 
