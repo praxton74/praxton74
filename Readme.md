@@ -99,6 +99,7 @@
   <img width="12" />
 </div>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praxton74&" alt="N/A" />
 
 
  <img align= "right" height="55%" width="36%" src="https://www.mkanalysis.com/static/img/Data%20Science%20Tom%20and%20Jerry.jpg">
