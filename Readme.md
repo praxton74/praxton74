@@ -126,7 +126,7 @@ Medical Image Processing using Unsupervised Learning</strong></footer>
 AI-ML on AWS </strong></footer>
         </td>
         <td style="text-align:center; padding:10px;">
-            <a href="https://ude.my/UC-f8d6166f-0590-4e8c-891a-df02777a9460"> <img src="https://imgs.search.brave.com/DsJCKZ_AJiQKQgUJBfqlFkEHqFjQsvoHR2kM07iw1oU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzA3L3VkZW15LWxv/Z28tMC5wbmc" alt="Image 4" style="width:50%; max-width:50px; height:auto;">
+            <a href="https://ude.my/UC-f8d6166f-0590-4e8c-891a-df02777a9460"> <img src="https://imgs.search.brave.com/DsJCKZ_AJiQKQgUJBfqlFkEHqFjQsvoHR2kM07iw1oU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzA3L3VkZW15LWxv/Z28tMC5wbmc" alt="Image 4" style="width:100%; max-width:50px; height:auto;">
             </a>
             <footer><strong>
 Advanced Deep Learning: Large-Scale Distributed Training JAX</strong></footer>
