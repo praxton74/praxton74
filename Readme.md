@@ -104,13 +104,13 @@
     <tr>
         <td style="text-align:center; padding:10px;">
             <a href="https://example.com/image1-link">
-                <img src="image1.jpg" alt="Image 1" style="width:100%; max-width:100px; height:auto;">
+                <img src="https://imgs.search.brave.com/1rAwshVIStZ4qJpJDGvfvw4xiTm-A2-d4nCdW8angwY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE0/LzA5L252aWRpYS1s/b2dvLTAucG5n" alt="Image 1" style="width:100%; max-width:100px; height:auto;">
             </a>
             <footer><strong>Title 1</strong></footer>
         </td>
         <td style="text-align:center; padding:10px;">
             <a href="https://example.com/image2-link">
-                <img src="image2.jpg" alt="Image 2" style="width:100%; max-width:100px; height:auto;">
+                <img src="https://imgs.search.brave.com/7Jz2wbQ-oS-5acD4PB9PtJlNp0iOehfv71zhUyHwQJU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk3L0NvdXJzZXJh/LUxvZ29fNjAweDYw/MC5zdmc" alt="Image 2" style="width:100%; max-width:100px; height:auto;">
             </a>
             <footer><strong>Title 2</strong></footer>
         </td>
@@ -118,13 +118,12 @@
     <tr>
         <td style="text-align:center; padding:10px;">
             <a href="https://example.com/image3-link">
-                <img src="image3.jpg" alt="Image 3" style="width:100%; max-width:100px; height:auto;">
+                <img src="https://imgs.search.brave.com/R1PHDRVTD1Y_y-isNRAk90N-p9cb2RYX6opWzXkwd7w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1LzQyLzI5LzU3/LzM2MF9GXzU0MjI5/NTcwMV9mWlZkc0F1/VjVPQmpRMkJVRGhq/T1RCUjMySlRoTFJh/Ni5qcGc" alt="Image 3" style="width:100%; max-width:100px; height:auto;">
             </a>
             <footer><strong>Title 3</strong></footer>
         </td>
         <td style="text-align:center; padding:10px;">
-            <a href="https://example.com/image4-link">
-                <img src="image4.jpg" alt="Image 4" style="width:100%; max-width:100px; height:auto;">
+            <a href="https://example.com/image4-link"> <img src="https://imgs.search.brave.com/DsJCKZ_AJiQKQgUJBfqlFkEHqFjQsvoHR2kM07iw1oU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzA3L3VkZW15LWxv/Z28tMC5wbmc" alt="Image 4" style="width:100%; max-width:100px; height:auto;">
             </a>
             <footer><strong>Title 4</strong></footer>
         </td>
