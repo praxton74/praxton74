@@ -100,34 +100,33 @@
 </div>
 
 
-<table border="1">
+<table border="1" style="width:100%; table-layout:fixed;">
     <tr>
-        <td>
+        <td style="text-align:center; padding:10px;">
             <a href="https://example.com/image1-link">
-                <img src="image1.jpg" alt="Image 1" width="100" height="100">
+                <img src="image1.jpg" alt="Image 1" style="width:100%; max-width:100px; height:auto;">
             </a>
             <footer><strong>Title 1</strong></footer>
         </td>
-        <td>
+        <td style="text-align:center; padding:10px;">
             <a href="https://example.com/image2-link">
-                <img src="image2.jpg" alt="Image 2" width="100" height="100">
+                <img src="image2.jpg" alt="Image 2" style="width:100%; max-width:100px; height:auto;">
             </a>
             <footer><strong>Title 2</strong></footer>
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="text-align:center; padding:10px;">
             <a href="https://example.com/image3-link">
-                <img src="image3.jpg" alt="Image 3" width="100" height="100">
+                <img src="image3.jpg" alt="Image 3" style="width:100%; max-width:100px; height:auto;">
             </a>
             <footer><strong>Title 3</strong></footer>
         </td>
-        <td>
+        <td style="text-align:center; padding:10px;">
             <a href="https://example.com/image4-link">
-                <img src="image4.jpg" alt="Image 4" width="100" height="100">
+                <img src="image4.jpg" alt="Image 4" style="width:100%; max-width:100px; height:auto;">
             </a>
             <footer><strong>Title 4</strong></footer>
         </td>
     </tr>
 </table>
-
