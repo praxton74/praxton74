@@ -12,7 +12,6 @@
 
 - 📙  My [Resume](https://drive.google.com/file/d/1AWjVjbi4ZCXS2vltsqsSCh4nOUO2mGub/view?usp=sharing)
 
-- https://www.linkedin.com/in/parth-mishra-44343b221/details/certifications/
 
 
 
