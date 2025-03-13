@@ -100,7 +100,7 @@
 </div>
 
 
-<table border="1" style="width:50%; table-layout:fixed;">
+<table border="1" style="width:100%; table-layout:fixed;">
     <tr>
         <td style="text-align:center; padding:10px;">
             <a href="https://courses.nvidia.com/certificates/07fef1ba08674bbca7948c9f2ff771a7">
