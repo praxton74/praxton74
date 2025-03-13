@@ -100,18 +100,18 @@
 </div>
 
 
-<table border="1" style="width:100%; table-layout:fixed;">
+<table border="1" style="width:50%; table-layout:fixed;">
     <tr>
         <td style="text-align:center; padding:10px;">
             <a href="https://courses.nvidia.com/certificates/07fef1ba08674bbca7948c9f2ff771a7">
-                <img src="https://imgs.search.brave.com/1rAwshVIStZ4qJpJDGvfvw4xiTm-A2-d4nCdW8angwY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE0/LzA5L252aWRpYS1s/b2dvLTAucG5n" alt="Image 1" style="width:100%; max-width:100px; height:auto;">
+                <img src="https://imgs.search.brave.com/1rAwshVIStZ4qJpJDGvfvw4xiTm-A2-d4nCdW8angwY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE0/LzA5L252aWRpYS1s/b2dvLTAucG5n" alt="Image 1" style="width:50%; max-width:50px; height:auto;">
             </a>
             <footer><strong>
 NVIDIA DLI on Deep Learning</strong></footer>
         </td>
         <td style="text-align:center; padding:10px;">
             <a href="https://www.coursera.org/account/accomplishments/certificate/RZYZH39XUM6H">
-                <img src="https://imgs.search.brave.com/7Jz2wbQ-oS-5acD4PB9PtJlNp0iOehfv71zhUyHwQJU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk3L0NvdXJzZXJh/LUxvZ29fNjAweDYw/MC5zdmc" alt="Image 2" style="width:100%; max-width:100px; height:auto;">
+                <img src="https://imgs.search.brave.com/7Jz2wbQ-oS-5acD4PB9PtJlNp0iOehfv71zhUyHwQJU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk3L0NvdXJzZXJh/LUxvZ29fNjAweDYw/MC5zdmc" alt="Image 2" style="width:50%; max-width:50px; height:auto;">
             </a>
             <footer><strong>
 Medical Image Processing using Unsupervised Learning</strong></footer>
@@ -120,13 +120,13 @@ Medical Image Processing using Unsupervised Learning</strong></footer>
     <tr>
         <td style="text-align:center; padding:10px;">
             <a href="https://drive.google.com/file/d/1DVXFpVvh1NqKwSYwh4lCE82FSp4tTxkc/view?usp=share_link">
-                <img src="https://downloadr2.apkmirror.com/wp-content/uploads/2022/01/77/61f76697258de.png" alt="Image 3" style="width:100%; max-width:100px; height:auto;">
+                <img src="https://downloadr2.apkmirror.com/wp-content/uploads/2022/01/77/61f76697258de.png" alt="Image 3" style="width:50%; max-width:50px; height:auto;">
             </a>
             <footer><strong>
 AI-ML on AWS </strong></footer>
         </td>
         <td style="text-align:center; padding:10px;">
-            <a href="https://ude.my/UC-f8d6166f-0590-4e8c-891a-df02777a9460"> <img src="https://imgs.search.brave.com/DsJCKZ_AJiQKQgUJBfqlFkEHqFjQsvoHR2kM07iw1oU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzA3L3VkZW15LWxv/Z28tMC5wbmc" alt="Image 4" style="width:100%; max-width:100px; height:auto;">
+            <a href="https://ude.my/UC-f8d6166f-0590-4e8c-891a-df02777a9460"> <img src="https://imgs.search.brave.com/DsJCKZ_AJiQKQgUJBfqlFkEHqFjQsvoHR2kM07iw1oU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzA3L3VkZW15LWxv/Z28tMC5wbmc" alt="Image 4" style="width:50%; max-width:50px; height:auto;">
             </a>
             <footer><strong>
 Advanced Deep Learning: Large-Scale Distributed Training JAX</strong></footer>
