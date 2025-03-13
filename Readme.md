@@ -118,7 +118,7 @@
     <tr>
         <td style="text-align:center; padding:10px;">
             <a href="https://example.com/image3-link">
-                <img src="https://webimg.trueidc.com/www/img_service_category/6-image_en-1452.jpg" alt="Image 3" style="width:100%; max-width:100px; height:auto;">
+                <img src="https://webimg.trueidc.com/www/img_service_category/6-image_en-1452.jpg" alt="Image 3" style="width:100%; max-width:50px; height:auto;">
             </a>
             <footer><strong>Title 3</strong></footer>
         </td>
