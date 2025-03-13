@@ -100,4 +100,34 @@
 </div>
 
 
+<table border="1">
+    <tr>
+        <td>
+            <a href="https://example.com/image1-link">
+                <img src="image1.jpg" alt="Image 1" width="100" height="100">
+            </a>
+            <footer><strong>Title 1</strong></footer>
+        </td>
+        <td>
+            <a href="https://example.com/image2-link">
+                <img src="image2.jpg" alt="Image 2" width="100" height="100">
+            </a>
+            <footer><strong>Title 2</strong></footer>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://example.com/image3-link">
+                <img src="image3.jpg" alt="Image 3" width="100" height="100">
+            </a>
+            <footer><strong>Title 3</strong></footer>
+        </td>
+        <td>
+            <a href="https://example.com/image4-link">
+                <img src="image4.jpg" alt="Image 4" width="100" height="100">
+            </a>
+            <footer><strong>Title 4</strong></footer>
+        </td>
+    </tr>
+</table>
 
