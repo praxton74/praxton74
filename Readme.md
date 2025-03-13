@@ -118,7 +118,7 @@
     <tr>
         <td style="text-align:center; padding:10px;">
             <a href="https://example.com/image3-link">
-                <img src="https://imgs.search.brave.com/R1PHDRVTD1Y_y-isNRAk90N-p9cb2RYX6opWzXkwd7w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1LzQyLzI5LzU3/LzM2MF9GXzU0MjI5/NTcwMV9mWlZkc0F1/VjVPQmpRMkJVRGhq/T1RCUjMySlRoTFJh/Ni5qcGc" alt="Image 3" style="width:100%; max-width:100px; height:auto;">
+                <img src="https://imgs.search.brave.com/MblMaV3_wp799PDrX7LfTTZ7oaFAHs8vnZfbZ-_sK8w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAzLzA2LzQxLzQy/LzM2MF9GXzMwNjQx/NDI1OF9qWUF0dTM5/RXZSeU5CeTZTSG9B/bDhpY1k1c0JuRVZD/by5qcGc" alt="Image 3" style="width:100%; max-width:100px; height:auto;">
             </a>
             <footer><strong>Title 3</strong></footer>
         </td>
