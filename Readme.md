@@ -101,31 +101,31 @@
 
 <h2 align="left">My Certificates</h2>
 
-<!-- Certificate Section -->
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 30px;">
   
   <div style="border: 1px solid #ddd; padding: 20px; text-align: center; background-color: #f9f9f9;">
-    <img src="https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/07/nvidia-logo-e1596209633824-920x613.png" alt="Certificate 1" style="width: 80%; height: auto; margin-bottom: 10px;">
+    <img src="https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/07/nvidia-logo-e1596209633824-920x613.png" alt="Certificate 1" style="width: 50%; height: auto; margin-bottom: 10px;">
     <h3>NVIDIA DLI Certificate for the successful completion of Fundamentals of Deep Learning</h3>
     <p><a href="https://link_to_certificate_1.com" target="_blank">View Certificate</a></p>
   </div>
 
   <div style="border: 1px solid #ddd; padding: 20px; text-align: center; background-color: #f9f9f9;">
-    <img src="https://saviynt.com/hubfs/aws.png" alt="Certificate 2" style="width: 80%; height: auto; margin-bottom: 10px;">
+    <img src="https://saviynt.com/hubfs/aws.png" alt="Certificate 2" style="width: 50%; height: auto; margin-bottom: 10px;">
     <h3>AI-ML virtual Internship with AWS academy</h3>
     <p><a href="https://link_to_certificate_2.com" target="_blank">View Certificate</a></p>
   </div>
 
   <div style="border: 1px solid #ddd; padding: 20px; text-align: center; background-color: #f9f9f9;">
-    <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1" alt="Certificate 3" style="width: 80%; height: auto; margin-bottom: 10px;">
+    <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1" alt="Certificate 3" style="width: 50%; height: auto; margin-bottom: 10px;">
     <h3>Image Segmentation with Python and Unsupervised Learning</h3>
     <p><a href="https://link_to_certificate_3.com" target="_blank">View Certificate</a></p>
   </div>
 
   <div style="border: 1px solid #ddd; padding: 20px; text-align: center; background-color: #f9f9f9;">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*VWRrVc_fN9dB2DMJCrl30g.jpeg" alt="Certificate 4" style="width: 80%; height: auto; margin-bottom: 10px;">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*VWRrVc_fN9dB2DMJCrl30g.jpeg" alt="Certificate 4" style="width: 50%; height: auto; margin-bottom: 10px;">
     <h3>Advanced Deep Learning: Large-Scale Distributed Training JAX</h3>
     <p><a href="https://link_to_certificate_4.com" target="_blank">View Certificate</a></p>
   </div>
 
 </div>
+
