@@ -10,7 +10,7 @@
 
 - ⚡  During my internship at The Indegenous, I built an efficient Full -Stack Web Application for media sentiment analysis.
 
-- 📙  My [Resume](https://drive.google.com/file/d/1AWjVjbi4ZCXS2vltsqsSCh4nOUO2mGub/view?usp=sharing)
+- 📙  My [Resume](https://drive.google.com/file/d/13Uw56PdOs6KjpcCbGvNxfY-ehaQHGkwv/view?usp=sharing)
 
 
 
