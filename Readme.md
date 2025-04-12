@@ -20,49 +20,42 @@
 ###
 
 <div align="left">
-  <!-- Web Dev -->
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="C" />
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
-  
-  <!-- ML / AI -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="Scikit-learn" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" />
-  <img src="https://cdn.simpleicons.org/matplotlib/11557c" height="40" alt="Matplotlib" />
-  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="GenAI" />
-  <img src="https://cdn.simpleicons.org/keras/D00000" height="40" alt="Deep Learning" />
-  
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma ORM" />
-  
-  <!-- DevOps / Tools -->
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
-  
-  <!-- Others -->
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQL" />
-</div>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
+  <!-- Frameworks / Libraries -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-FFDB58?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GenAI-8e44ad?style=for-the-badge" />
+
+  <!-- ML/AI Tools -->
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAX-FFAD00?style=for-the-badge" />
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
 
 
 
