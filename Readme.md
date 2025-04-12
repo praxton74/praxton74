@@ -96,8 +96,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
+ 
    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="java logo"  />
    <img width="12" />
    <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="java logo"  />
