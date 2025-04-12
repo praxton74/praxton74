@@ -2,13 +2,13 @@
    <img  width ="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgV6iddHeFGuPg8DRE_-IJwHPhMaACAxnFMV7XM_MDGHy5QutnbNJxoKgIvsx9-R4xc7E&usqp=CAU"> </h1>  </p>
  
 
-- 🎆 I’m currently Building Projects using Llama
+- 🎆 I’m currently Building Projects using LLM
  
-- 🤔 I’m currently learning *Agentic RAG*
+- 🤔 I’m currently learning more about *RAG*
 
 - 🌱 As the Machine Learning Head at [DSDL](https://github.com/Data-Science-and-Deep-Learning-Club), I've led teams, organized educational initiatives and mentored 45 students. 
 
-- ⚡  During my internship at The Indegenous, I built an efficient Full -Stack Web Application for media sentiment analysis.
+- ⚡  During my internship at The Indegenous, I built an efficient Full-Stack Web Application for media sentiment analysis.
 
 - 📙  My [Resume](https://drive.google.com/file/d/13Uw56PdOs6KjpcCbGvNxfY-ehaQHGkwv/view?usp=sharing)
 
