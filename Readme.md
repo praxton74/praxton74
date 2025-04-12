@@ -20,85 +20,100 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <!-- Web, Backend, Languages -->
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
   <img width="12" />
-  
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+
+  <!-- ML & AI -->
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img src="https://cdn.simpleicons.org/scikit-learn/F7931E" height="40" alt="Scikit-learn" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="40" alt="Matplotlib" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="OpenCV" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="Jupyter" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+
+  <!-- GenAI (custom icon suggestion) -->
+  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="GenAI" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img src="https://cdn.simpleicons.org/jetbrains/000000" height="40" alt="JetBrains IDE" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
-  <img width=
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="40" alt="tomcat logo"  />
+
+  <!-- Tools & Cloud -->
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://cdn.simpleicons.org/aws/FF9900" height="40" alt="AWS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Apache Kafka" />
   <img width="12" />
+
+  <!-- SQL -->
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQL" />
 </div>
+
 
 
 
