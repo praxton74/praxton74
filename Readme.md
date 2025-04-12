@@ -98,4 +98,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="java logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="java logo"  />
+  
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="java logo"  />
+   
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="prisma logo"  />
+  
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="prisma logo"  />
+  
+  
 </div>
