@@ -10,7 +10,7 @@
 
 - ⚡ I've Built Backend (API'S) through various frameworks of Python and NodeJS.
 
-- 📙  My [Resume](https://drive.google.com/file/d/13Uw56PdOs6KjpcCbGvNxfY-ehaQHGkwv/view?usp=sharing) But I think my GitHub is Enough!!!!
+- 👉 [RESUME](https://drive.google.com/file/d/13Uw56PdOs6KjpcCbGvNxfY-ehaQHGkwv/view?usp=sharing)  But I think my GitHub would be Enough for You!!!!
 
 
 
