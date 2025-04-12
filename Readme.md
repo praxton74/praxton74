@@ -21,41 +21,38 @@
 
 <div align="left">
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" />
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
+  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Apache Kafka" />
 
   <!-- Frameworks / Libraries -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-FFDB58?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GenAI-8e44ad?style=for-the-badge" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" />
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
+  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" />
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" />
+  <img src="https://img.icons8.com/color/48/000000/tkinter.png" alt="Tkinter" />
 
   <!-- ML/AI Tools -->
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAX-FFAD00?style=for-the-badge" />
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn" />
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" />
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" />
+  <img src="https://img.icons8.com/color/48/000000/jax.png" alt="JAX" />
 
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <!-- Databases -->
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" />
 </div>
-
-
-
