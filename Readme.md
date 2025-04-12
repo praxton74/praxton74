@@ -6,11 +6,11 @@
  
 - 🤔 I’m currently learning more about *RAG*
 
-- 🌱 As the Machine Learning Head at [DSDL](https://github.com/Data-Science-and-Deep-Learning-Club), I've led teams, organized educational initiatives and mentored 45 students. 
+- 🌱 I've led teams, organized educational initiatives and mentored 45 students during my College years. 
 
-- ⚡  During my internship at The Indegenous, I built an efficient Full-Stack Web Application for media sentiment analysis.
+- ⚡ I've Built Backend (API'S) through various frameworks of Python and NodeJS.
 
-- 📙  My [Resume](https://drive.google.com/file/d/13Uw56PdOs6KjpcCbGvNxfY-ehaQHGkwv/view?usp=sharing)
+- 📙 My [Resume](https://drive.google.com/file/d/13Uw56PdOs6KjpcCbGvNxfY-ehaQHGkwv/view?usp=sharing)
 
 
 
