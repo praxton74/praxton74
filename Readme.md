@@ -1,8 +1,6 @@
 <p left align=500%>                                         <h1> ʙᴜɪʟᴅɪɴɢ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ ᴀɴᴅ ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜᴇᴍ 
   </h1>  </p>
  
-
-- 🎆 I’m currently Building Projects using LLM
  
 - 🤔 I’m currently learning more about *RAG*
 
