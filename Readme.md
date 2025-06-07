@@ -8,9 +8,7 @@
 
 - ⚡ I've Built Backend (API'S) through various frameworks of Python and NodeJS.
 
-- 👉 [RESUME](https://drive.google.com/file/d/13Uw56PdOs6KjpcCbGvNxfY-ehaQHGkwv/view?usp=sharing)  But I think my GitHub would be Enough for You!!!!
-
-
+- 👉 [RESUME](https://drive.google.com/file/d/13Uw56PdOs6KjpcCbGvNxfY-ehaQHGkwv/view?usp=sharing)  
 
 
 <h2 align="left">I code with</h2>
