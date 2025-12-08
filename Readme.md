@@ -8,7 +8,7 @@
 
 - ⚡ I've Built Backend (API'S) through various frameworks of Python and NodeJS.
 
-- 🌱 I've led teams, organized educational initiatives and mentored 45 students during my College years. 
+- 🌱 I've organized educational initiatives mentored 45 students during my College years. 
 
 - 👉 [RESUME](https://drive.google.com/file/d/1I8ILZSObe3sA__Uof6KcSY_8-dPXsnK8/view?usp=drivesdk)  
 
