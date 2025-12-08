@@ -5,7 +5,7 @@
 - 🕵‍♂️ I've developed various AI-Agents for real world solution in Healthcare and Banking Domains.
 
 - 🪄 Bulit NLP based Solutions by Fine-Tuning LLMs or using RAG Methodology.
-- 
+
 - ⚡ I've Built Backend (API'S) through various frameworks of Python and NodeJS.
 
 - 🌱 I've led teams, organized educational initiatives and mentored 45 students during my College years. 
