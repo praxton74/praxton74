@@ -2,7 +2,7 @@
   </h1>  </p>
  
  
-- 🕵‍♂️ I've developed various AI-Agents for real world solution in Healthcare and Banking Domains.
+- 🕵‍♂️ Built AI agents addressing real-world challenges in healthcare and banking
 
 - 🪄 Bulit NLP based Solutions by Fine-Tuning LLMs or using RAG Methodology.
 
