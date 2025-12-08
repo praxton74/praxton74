@@ -8,7 +8,8 @@
 
 - ⚡ I've Built Backend (API'S) through various frameworks of Python and NodeJS.
 
-- 👉 [RESUME](https://drive.google.com/file/d/13Uw56PdOs6KjpcCbGvNxfY-ehaQHGkwv/view?usp=sharing)  
+- 👉 [RESUME](
+-https://drive.google.com/file/d/1I8ILZSObe3sA__Uof6KcSY_8-dPXsnK8/view?usp=drivesdk )  
 
 
 <h2 align="left">I code with</h2>
