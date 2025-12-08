@@ -2,11 +2,13 @@
   </h1>  </p>
  
  
-- 🤔 I’m currently learning more about *RAG*
+- 🕵‍♂️ I've developed various AI-Agents for real world solution in Healthcare and Banking Domains.
+
+- 🪄 Bulit NLP based Solutions by Fine-Tuning LLMs or using RAG Methodology.
+- 
+- ⚡ I've Built Backend (API'S) through various frameworks of Python and NodeJS.
 
 - 🌱 I've led teams, organized educational initiatives and mentored 45 students during my College years. 
-
-- ⚡ I've Built Backend (API'S) through various frameworks of Python and NodeJS.
 
 - 👉 [RESUME](https://drive.google.com/file/d/1I8ILZSObe3sA__Uof6KcSY_8-dPXsnK8/view?usp=drivesdk)  
 
