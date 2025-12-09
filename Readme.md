@@ -1,4 +1,4 @@
-<p left align=500%>                                         <h1> Train without limits -> fine-tune without mercy
+<p left align=500%>                                         <h1> Train without limits ᯓ➤ fine-tune without mercy
   </h1>  </p>
  
  
@@ -6,7 +6,7 @@
 
 - 🌱 Developed NLP based Solutions by Fine-Tuning LLMs or using RAG Methodology.
 
-- ⚡ I've Designed Backend (API'S) through various frameworks of Python and NodeJS.
+- ⚡ I've Designed Backend (API'S) through frameworks of Python [Flask, Django] and NodeJS [NestJS].
 
 - 👉 [RESUME](https://drive.google.com/file/d/1I8ILZSObe3sA__Uof6KcSY_8-dPXsnK8/view?usp=drivesdk)  
 
