@@ -6,7 +6,7 @@
 
 - 🌱 Developed NLP based Solutions by Fine-Tuning LLMs or enforcing RAG Methodology.
 
-- ⚡ I've Designed Backend API'S through frameworks of Python [Flask, Django] and NodeJS [NestJS].
+- ⚡ I've Designed Backend API'S through frameworks of Python [ꜰʟᴀꜱᴋ, ᴅᴊᴀɴɢᴏ] and NodeJS [ɴᴇꜱᴛᴊꜱ].
 
 - 👉 [RESUME](https://drive.google.com/file/d/1I8ILZSObe3sA__Uof6KcSY_8-dPXsnK8/view?usp=drivesdk)  
 
