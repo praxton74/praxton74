@@ -4,11 +4,9 @@
  
 - 🕵‍♂️ Built AI agents addressing real-world challenges in healthcare and banking
 
-- 🪄 Bulit NLP based Solutions by Fine-Tuning LLMs or using RAG Methodology.
+- 🌱 Developed NLP based Solutions by Fine-Tuning LLMs or using RAG Methodology.
 
-- ⚡ I've Built Backend (API'S) through various frameworks of Python and NodeJS.
-
-- 🌱 I've organized educational initiatives mentored 45 students during my College years. 
+- ⚡ I've Designed Backend (API'S) through various frameworks of Python and NodeJS.
 
 - 👉 [RESUME](https://drive.google.com/file/d/1I8ILZSObe3sA__Uof6KcSY_8-dPXsnK8/view?usp=drivesdk)  
 
