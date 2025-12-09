@@ -2,11 +2,11 @@
   </h1>  </p>
  
  
-- 🕵‍♂️ Built AI agents addressing real-world challenges in healthcare and banking
+- 🕵‍♂️ Built AI agents for Data Migration and Morenization addressing challenges in healthcare and banking
 
-- 🌱 Developed NLP based Solutions by Fine-Tuning LLMs or using RAG Methodology.
+- 🌱 Developed NLP based Solutions by Fine-Tuning LLMs or enforcing RAG Methodology.
 
-- ⚡ I've Designed Backend (API'S) through frameworks of Python [Flask, Django] and NodeJS [NestJS].
+- ⚡ I've Designed Backend API'S through frameworks of Python [Flask, Django] and NodeJS [NestJS].
 
 - 👉 [RESUME](https://drive.google.com/file/d/1I8ILZSObe3sA__Uof6KcSY_8-dPXsnK8/view?usp=drivesdk)  
 
