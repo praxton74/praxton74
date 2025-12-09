@@ -1,4 +1,4 @@
-<p left align=500%>                                         <h1> ʙᴜɪʟᴅɪɴɢ ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ ᴀɴᴅ ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜᴇᴍ 
+<p left align=500%>                                         <h1> Train without limits -> fine-tune without mercy
   </h1>  </p>
  
  
