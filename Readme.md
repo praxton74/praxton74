@@ -2,7 +2,7 @@
   </h1>  </p>
  
  
-- 🕵‍♂️ Built AI agents for Data Migration and Morenization addressing challenges in healthcare and banking
+- 🕵‍♂️ Built AI agents for Data Migration and Mordenization addressing challenges in healthcare and banking
 
 - 🌱 Developed NLP based Solutions by Fine-Tuning LLMs or enforcing RAG Methodology.
 
