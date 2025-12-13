@@ -4,7 +4,7 @@
  
 - 🕵‍♂️ Built AI agents for Data Migration and Mordenization addressing challenges in healthcare and banking
 
-- 🌱 Developed NLP based Solutions by Fine-Tuning LLMs or enforcing RAG Methodology.
+- 🌱 Developed NLP based Solutions by Fine-Tuning LLMs and enforcing RAG Methodology.
 
 - ⚡ I've Designed Backend API'S through frameworks of Python [ꜰʟᴀꜱᴋ, ᴅᴊᴀɴɢᴏ] and NodeJS [ɴᴇꜱᴛᴊꜱ].
 
