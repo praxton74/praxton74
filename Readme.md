@@ -31,6 +31,9 @@
 <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/github-actions" width="64px" />
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=aisdk" width="64px" />
+  <img src="https://skillicons.dev/icons?i=snowflake" width="64px" />
+<img src="https://skillicons.dev/icons?i=spark" width="64px" />
+
 <img src="https://iconic-api.onrender.com/dark/chatgpt" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/tensorflow" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/keras" width="64px" />
