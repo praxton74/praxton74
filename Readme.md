@@ -32,7 +32,7 @@
 <img src="https://iconic-api.onrender.com/dark/github-actions" width="64px" />
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=aisdk" width="64px" />
 <img width="64px" src="https://github.com/user-attachments/assets/14587015-9cb0-485f-b3cd-f9798f448396" />
-
+<img width="64px" src="https://www.snowflake.com/wp-content/themes/snowflake/assets/img/brand-guidelines/bug-usage@2x.png"/>
           
 
 <img src="https://iconic-api.onrender.com/dark/chatgpt" width="64px" />
