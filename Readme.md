@@ -31,7 +31,8 @@
 <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/github-actions" width="64px" />
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=aisdk" width="64px" />
-<i class="devicon-apachespark-plain-wordmark"></i>
+<img width="64px" src="https://github.com/user-attachments/assets/14587015-9cb0-485f-b3cd-f9798f448396" />
+
           
 
 <img src="https://iconic-api.onrender.com/dark/chatgpt" width="64px" />
