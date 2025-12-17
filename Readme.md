@@ -2,14 +2,14 @@
   </h1>  </p>
  
  
-<h4> 
+<h5> 
 <li>🕵‍♂️ Built AI agents for Data Migration addressing challenges in healthcare and banking.</li>
 
 <li> 🌱 Developed NLP based Solutions by Fine-Tuning LLMs and enforcing RAG Methodology.</li>
 
 <li>⚡ I've Designed Backend API'S through frameworks of Python [ꜰʟᴀꜱᴋ, ᴅᴊᴀɴɢᴏ] and NodeJS [ɴᴇꜱᴛᴊꜱ].</li>
 
-<li>👉 [RESUME](https://drive.google.com/file/d/1ofErgCPqlIFym1wFvWqekYP5jlT_sJto/view?usp=sharing)  </li> </h4>
+<li>👉 [RESUME](https://drive.google.com/file/d/1ofErgCPqlIFym1wFvWqekYP5jlT_sJto/view?usp=sharing)  </li> </h5>
 
  
   
