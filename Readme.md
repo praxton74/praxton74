@@ -30,7 +30,8 @@
 <img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/github-actions" width="64px" />
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/50afb831-81b2-441f-a83d-55213d6bfb37" />
+<img width="64px" src="https://github.com/user-attachments/assets/ff0b919c-beaa-43d5-8e97-b8f33181a105" />
+
 
 <img width="64px" src="https://github.com/user-attachments/assets/14587015-9cb0-485f-b3cd-f9798f448396" />
 <img width="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/snowflake-data-cloud-icon.png"/>
