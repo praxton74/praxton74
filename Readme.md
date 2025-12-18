@@ -1,63 +1,77 @@
-<p left align=500%>                                         <h1> Train without limits ⁀➴ Fine-tune without mercy
-  </h1>  </p>
- 
- 
- 
-🕵‍♂️ Built AI agents for Data Migration addressing challenges in healthcare and banking.
+<table width="100%" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); border-radius: 16px;">
+<tr>
+<td align="center">
 
-🌱 Developed NLP based Solutions by Fine-Tuning LLMs and enforcing RAG Methodology.
+<h1 style="color:#ffffff; font-size: 36px; margin-top: 20px;">
+🚄 Train without limits ⁀➴ Fine-tune without mercy
+</h1>
 
-🚀 I've Designed Backend API'S through frameworks of Python [ꜰʟᴀꜱᴋ, ᴅᴊᴀɴɢᴏ] and NodeJS [ɴᴇꜱᴛᴊꜱ].
+<p style="color:#d1e8ff; font-size:16px; max-width:800px;">
+🕵‍♂️ Built AI agents for Data Migration addressing challenges in healthcare and banking.<br><br>
+🌱 Developed NLP-based solutions by fine-tuning LLMs and enforcing RAG methodology.<br><br>
+🚀 Designed backend APIs using Python (Flask, Django) and NodeJS (NestJS).
+</p>
 
-👉 [RESUME](https://drive.google.com/file/d/1ofErgCPqlIFym1wFvWqekYP5jlT_sJto/view?usp=sharing) 
+<a href="https://drive.google.com/file/d/1ofErgCPqlIFym1wFvWqekYP5jlT_sJto/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-View%20Here-00e6e6?style=for-the-badge&logo=google-drive&logoColor=black"/>
+</a>
 
- 
-  
-</div>
-<p left align=500%>                                <u>         <h2>Skillset </u>
-  </h2>  </p>  
-<div>
-<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/django" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/flask" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/fastapi" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
-<img src="https://skillicons.dev/icons?i=nestjs" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/redis" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/aws" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/git" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/github-actions" width="64px" />
-<img width="64px" src="https://github.com/user-attachments/assets/ff0b919c-beaa-43d5-8e97-b8f33181a105" />
+<br><br>
 
+</td>
+</tr>
+</table>
 
-<img width="64px" src="https://github.com/user-attachments/assets/14587015-9cb0-485f-b3cd-f9798f448396" />
-<img width="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/snowflake-data-cloud-icon.png"/>
-          
+---
 
-<img src="https://iconic-api.onrender.com/dark/chatgpt" width="64px" />
-<img width="64px" src="https://github.com/user-attachments/assets/72008a70-2344-466b-b6bc-a027c21958e9" />
+<table width="100%" style="background:#0b1220; border-radius: 16px; margin-top:20px;">
+<tr>
+<td align="center">
 
-<img src="https://iconic-api.onrender.com/dark/tensorflow" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/keras" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/scikit-learn" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/opencv" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/numpy" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/pandas" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/typescript" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/css" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/cpp" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/postman" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/jupyter" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/google-colab" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/jira" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/slack" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/figma" width="64px" />
+<h2 style="color:#00e6e6; margin-top:20px;">⚙️ Skillset</h2>
 
-  
-</div>
+<br>
+
+<!-- Backend -->
+<img src="https://iconic-api.onrender.com/dark/python" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/django" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/flask" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/fastapi" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/nodejs" width="64"/>
+<img src="https://skillicons.dev/icons?i=nestjs" width="64"/>
+
+<br><br>
+
+<!-- Databases / Cloud -->
+<img src="https://iconic-api.onrender.com/dark/postgresql" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/mongodb" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/redis" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/aws" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/docker" width="64"/>
+
+<br><br>
+
+<!-- AI / ML -->
+<img src="https://iconic-api.onrender.com/dark/chatgpt" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/tensorflow" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/keras" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/scikit-learn" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/opencv" width="64"/>
+
+<br><br>
+
+<!-- Tools -->
+<img src="https://iconic-api.onrender.com/dark/git" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/github-actions" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/postman" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/jupyter" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/google-colab" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/jira" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/slack" width="64"/>
+<img src="https://iconic-api.onrender.com/dark/figma" width="64"/>
+
+<br><br>
+
+</td>
+</tr>
+</table>
