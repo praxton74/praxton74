@@ -1,9 +1,3 @@
-<!-- VIBRANT BACKGROUND WRAPPER -->
-<table width="100%" cellpadding="0" cellspacing="0"
-style="background: linear-gradient(120deg, red, #203a43, #2c5364); border-radius:18px;">
-<tr>
-<td>
-
 <p left align=500%>
   <h1 style="color:#ffffff; padding-left:30px;">
     Train without limits ⁀➴ Fine-tune without mercy
@@ -66,7 +60,3 @@ style="background: linear-gradient(120deg, red, #203a43, #2c5364); border-radius
 <img src="https://iconic-api.onrender.com/dark/figma" width="64px" />
 
 </div>
-
-</td>
-</tr>
-</table>
