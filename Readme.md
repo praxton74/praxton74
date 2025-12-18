@@ -3,7 +3,7 @@
  
  
  
-<h4>🕵‍♂️</h4> Built AI agents for Data Migration addressing challenges in healthcare and banking.
+<h4>🕵‍♂️Built AI agents for Data Migration addressing challenges in healthcare and banking.
 
 <h4>🌱</h4>  Developed NLP based Solutions by Fine-Tuning LLMs and enforcing RAG Methodology.
 
