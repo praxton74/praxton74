@@ -38,7 +38,7 @@
           
 
 <img src="https://iconic-api.onrender.com/dark/chatgpt" width="64px" />
-<img width="64px" src="https://github.com/user-attachments/assets/ddf55056-a9d8-45cf-b1af-636e930ca7d9" />
+<img width="64px" src="https://github.com/user-attachments/assets/72008a70-2344-466b-b6bc-a027c21958e9" />
 
 <img src="https://iconic-api.onrender.com/dark/tensorflow" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/keras" width="64px" />
