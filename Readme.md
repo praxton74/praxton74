@@ -7,7 +7,7 @@
 
 🌱 Developed NLP based Solutions by Fine-Tuning LLMs and enforcing RAG Methodology.
 
-<img width="28px" src="https://github.com/user-attachments/assets/60751a01-6411-4e43-adc1-d32780ba85be" /> I've Designed Backend API'S through frameworks of Python [ꜰʟᴀꜱᴋ, ᴅᴊᴀɴɢᴏ] and NodeJS [ɴᴇꜱᴛᴊꜱ].
+💡 I've Designed Backend API'S through frameworks of Python [ꜰʟᴀꜱᴋ, ᴅᴊᴀɴɢᴏ] and NodeJS [ɴᴇꜱᴛᴊꜱ].
 
 👉 [RESUME](https://drive.google.com/file/d/1ofErgCPqlIFym1wFvWqekYP5jlT_sJto/view?usp=sharing) 
 
