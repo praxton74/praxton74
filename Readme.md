@@ -14,8 +14,8 @@
  
   
 </div>
-<p left align=500%>                                <u>         <h1>Skillset </u>
-  </h1>  </p>  
+<p left align=500%>                                <u>         <h2>Skillset </u>
+  </h2>  </p>  
 <div>
 <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/django" width="64px" />
