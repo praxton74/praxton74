@@ -3,13 +3,13 @@
  
  
  
-<h4>🕵‍♂️Built AI agents for Data Migration addressing challenges in healthcare and banking.
+🕵‍♂️ Built AI agents for Data Migration addressing challenges in healthcare and banking.
 
-<h4>🌱</h4>  Developed NLP based Solutions by Fine-Tuning LLMs and enforcing RAG Methodology.
+🌱 Developed NLP based Solutions by Fine-Tuning LLMs and enforcing RAG Methodology.
 
-<h4>⚡</h4>  I've Designed Backend API'S through frameworks of Python [ꜰʟᴀꜱᴋ, ᴅᴊᴀɴɢᴏ] and NodeJS [ɴᴇꜱᴛᴊꜱ].
+<img width="28px" src="https://github.com/user-attachments/assets/60751a01-6411-4e43-adc1-d32780ba85be" /> I've Designed Backend API'S through frameworks of Python [ꜰʟᴀꜱᴋ, ᴅᴊᴀɴɢᴏ] and NodeJS [ɴᴇꜱᴛᴊꜱ].
 
-<h4>👉</h4>  [RESUME](https://drive.google.com/file/d/1ofErgCPqlIFym1wFvWqekYP5jlT_sJto/view?usp=sharing) 
+👉 [RESUME](https://drive.google.com/file/d/1ofErgCPqlIFym1wFvWqekYP5jlT_sJto/view?usp=sharing) 
 
  
   
