@@ -14,7 +14,7 @@
  
   
 </div>
-<p left align=500%>                                         <h1> Proficient skills
+<p left align=500%>                                         <h1> <u>Skillset</u>
   </h1>  </p>
 <div>
 <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
