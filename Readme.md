@@ -1,6 +1,6 @@
 <!-- VIBRANT BACKGROUND WRAPPER -->
 <table width="100%" cellpadding="0" cellspacing="0"
-style="background: linear-gradient(120deg, #0f2027, #203a43, #2c5364); border-radius:18px;">
+style="background: linear-gradient(120deg, red, #203a43, #2c5364); border-radius:18px;">
 <tr>
 <td>
 
@@ -22,7 +22,7 @@ style="background: linear-gradient(120deg, #0f2027, #203a43, #2c5364); border-ra
 
 <p left align=500%>
   <u>
-    <h2 style="color:#00e6e6; padding-left:30px;">Skillset</h2>
+    <h2 style="color:#00e6e6; padding-left:30px;">Skillset⚙️</h2>
   </u>
 </p>
 
