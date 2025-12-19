@@ -6,7 +6,7 @@
 
 🕵‍♂️ Built AI agents for NLP-based influencer tagger improving targeted advertising & creating $80K in revenue.
 
-🌱 Developed NLP based Solutions by Fine-Tuning LLMs and enforcing RAG Methodology.
+🌱 Developed AI Solutions by Fine-Tuning LLMs and enforcing RAG Methodology.
 
 🚀 I've Designed Backend API'S through frameworks of Python [ꜰʟᴀꜱᴋ, ᴅᴊᴀɴɢᴏ] and NodeJS [ɴᴇꜱᴛᴊꜱ].
 
