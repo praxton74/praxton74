@@ -16,7 +16,7 @@
 
 <p left align=500%>
   <u>
-    <h2 style="color:#00e6e6; padding-left:30px;">Skillset ⛯ </h2>
+    <h2>Skillset ⛯ </h2>
   </u>
 </p>
 
