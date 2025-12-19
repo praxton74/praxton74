@@ -4,7 +4,7 @@
   </h1>
 </p>
 
-🕵‍♂️ Built AI agents for Data Migration addressing challenges in healthcare and banking.
+🕵‍♂️ Built AI agents for NLP-based influencer tagger improving targeted advertising & creating $80K in revenue.
 
 🌱 Developed NLP based Solutions by Fine-Tuning LLMs and enforcing RAG Methodology.
 
