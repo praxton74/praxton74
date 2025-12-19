@@ -16,7 +16,7 @@
 
 <p left align=500%>
   <u>
-    <h2 style="color:#00e6e6; padding-left:30px;">Skillset<img width="10px" src="https://github.com/user-attachments/assets/626c4ac9-0926-4d01-ab63-e9dab7c9fc02" />
+    <h2 style="color:#00e6e6; padding-left:30px;">Skillset<img width="20px" src="https://github.com/user-attachments/assets/626c4ac9-0926-4d01-ab63-e9dab7c9fc02" />
 
 
 </h2>
