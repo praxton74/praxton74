@@ -38,7 +38,7 @@
 <img width="64px" src="https://github.com/user-attachments/assets/14587015-9cb0-485f-b3cd-f9798f448396" />
 <img width="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/snowflake-data-cloud-icon.png"/>
 <img src="https://iconic-api.onrender.com/dark/chatgpt" width="64px" />
-<img width="64px" src="https://www.flaticon.com/free-icon/nlp_10306116" />
+<img width="64px" src="https://github.com/user-attachments/assets/693dc27f-3307-42c8-ae55-f8d009fface4" />
 <img src="https://iconic-api.onrender.com/dark/tensorflow" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/keras" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="64px" />
@@ -59,3 +59,4 @@
 <img src="https://iconic-api.onrender.com/dark/figma" width="64px" />
 
 </div>
+
