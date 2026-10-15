@@ -4,7 +4,7 @@
   </h1>
 </p>
 
-🕵‍♂️ Built AI agents for NLP-based influencer tagger improving targeted advertising & creating $80K in revenue.
+🕵‍♂️ Built AI agents for NLP-based influencer tagger improving targeted advertising generating €35,000 annually.
 
 🌱 Developed AI Solutions by Fine-Tuning LLMs and enforcing RAG Methodology.
 
